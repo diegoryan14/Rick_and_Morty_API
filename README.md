@@ -5,3 +5,6 @@ DESENVOLV DE APLICACOES P/ A INTERNET
 NOME: Diego Ryan Paduan Moreira - RA: 1942713
 API: https://rickandmortyapi.com/api
 OBJETIVO: Mostrar os dados e persongens do desenho Rick_and_Morty
+
+/* Commit final em GitHub */
+https://github.com/drp014/Rick_and_Morty_Api_.git
